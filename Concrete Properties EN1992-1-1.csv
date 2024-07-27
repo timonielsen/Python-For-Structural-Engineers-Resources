@@ -1,16 +1,16 @@
-﻿"Concrete Design Properties according to EN1992-1-1 (γc = 1.50, fyk = 500 MPa)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Symbol,Description,C12/15,C16/20,C20/25,C25/30,C30/37,C35/45,C40/50,C45/55,C50/60,C55/67,C60/75,C70/85,C80/95,C90/105,,,,,,,,,,,,,,,
-fck (MPa),Characteristic cylinder compressive strength,12Mpa,16Mpa,20Mpa,25Mpa,30Mpa,35Mpa,40Mpa,45Mpa,50Mpa,55Mpa,60Mpa,70Mpa,80Mpa,90Mpa,,12MpaMpa,16MpaMpa,20MpaMpa,25MpaMpa,30MpaMpa,35MpaMpa,40MpaMpa,45MpaMpa,50MpaMpa,55MpaMpa,60MpaMpa,70MpaMpa,80MpaMpa,90MpaMpa
-"fck,cube (MPa)",Characteristic cube compressive strength,15,20,25,30,37,45,50,55,60,67,75,85,95,105,,,,,,,,,,,,,,,
-fcm (MPa),Mean cylinder compressive strength,20,??,28,33,38,43,48,53,58,??,68,78,88,98,,,,,,,,,,,,,,,
-fctm (MPa),Mean tensile strength,1.57,1.9,2.21,2.56,2.9,3.21,3.51,3.8,4.07,4.21,4.35,4.61,4.84,5.04,,,,,,,,,,,,,,,
-Ecm (MPa),Elastic modulus,27085,28608,29962,31476,32837,34077,35220,36283,37278,38214,39100,40743,42244,43631,,,,,,,,,,,,,,,
-fcd (MPa),Design compressive strength,8,10.67,13.33,16.67,20,23.33,26.67,30,33.33,36.67,40,46.67,53.33,60,,,,,,,,,,,,,,,
-(for αcc=1.00),(for αcc=1.00),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-fcd (MPa),Design compressive strength,6.8,9.07,11.33,14.17,17,19.83,22.67,25.5,28.33,31.17,34,39.67,45.33,51,,,,,,,,,,,,,,,
-(for αcc=0.85),(for αcc=0.85),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-fctd (MPa),Design tensile strength,0.73,0.89,1.03,1.2,1.35,1.5,1.64,1.77,1.9,1.97,2.03,2.15,2.26,2.35,,,,,,,,,,,,,,,
-(for αct=1.00),(for αct=1.00),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ρmin (%),Minimum longitudinal tension reinforcement ratio,0.13,0.13,0.13,0.133,0.151,0.167,0.182,0.197,0.212,0.219,0.226,0.24,0.252,0.262,,,,,,,,,,,,,,,
-"ρw,min (%)",Minimum shear reinforcement ratio,0.055,0.064,0.072,0.08,0.088,0.095,0.101,0.107,0.113,0.119,0.124,0.134,0.143,0.152,,,,,,,,,,,,,,,
-This data is from Table 3.1 in EN1992-1-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿"Concrete Design Properties according to EN1992-1-1 (γc = 1.50, fyk = 500 MPa)",,,,,,,,,,,,,,,
+Symbol,Description,C12/15,C16/20,C20/25,C25/30,C30/37,C35/45,C40/50,C45/55,C50/60,C55/67,C60/75,C70/85,C80/95,C90/105
+fck (MPa),Characteristic cylinder compressive strength,12Mpa,16Mpa,20Mpa,25Mpa,30Mpa,35Mpa,40Mpa,45Mpa,50Mpa,55Mpa,60Mpa,70Mpa,80Mpa,90Mpa
+"fck,cube (MPa)",Characteristic cube compressive strength,15,20,25,30,37,45,50,55,60,67,75,85,95,105
+fcm (MPa),Mean cylinder compressive strength,20,24,28,33,38,43,48,53,58,63,68,78,88,98
+fctm (MPa),Mean tensile strength,1.57,1.9,2.21,2.56,2.9,3.21,3.51,3.8,4.07,4.21,4.35,4.61,4.84,5.04
+Ecm (MPa),Elastic modulus,27085,28608,29962,31476,32837,34077,35220,36283,37278,38214,39100,40743,42244,43631
+fcd (MPa),Design compressive strength,8,10.67,13.33,16.67,20,23.33,26.67,30,33.33,36.67,40,46.67,53.33,60
+(for αcc=1.00),(for αcc=1.00),,,,,,,,,,,,,,
+fcd (MPa),Design compressive strength,6.8,9.07,11.33,14.17,17,19.83,22.67,25.5,28.33,31.17,34,39.67,45.33,51
+(for αcc=0.85),(for αcc=0.85),,,,,,,,,,,,,,
+fctd (MPa),Design tensile strength,0.73,0.89,1.03,1.2,1.35,1.5,1.64,1.77,1.9,1.97,2.03,2.15,2.26,2.35
+(for αct=1.00),(for αct=1.00),,,,,,,,,,,,,,
+ρmin (%),Minimum longitudinal tension reinforcement ratio,0.13,0.13,0.13,0.133,0.151,0.167,0.182,0.197,0.212,0.219,0.226,0.24,0.252,0.262
+"ρw,min (%)",Minimum shear reinforcement ratio,0.055,0.064,0.072,0.08,0.088,0.095,0.101,0.107,0.113,0.119,0.124,0.134,0.143,0.152
+This data is from Table 3.1 in EN1992-1-1,,,,,,,,,,,,,,,
