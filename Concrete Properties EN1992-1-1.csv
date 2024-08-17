@@ -1,5 +1,7 @@
 ﻿"Concrete Design Properties according to EN1992-1-1 (γc = 1.50, fyk = 500 MPa)",,,,,,,,,,,,,,,
 Symbol,Description,C12/15,C16/20,C20/25,C25/30,C30/37,C35/45,C40/50,C45/55,C50/60,C55/67,C60/75,C70/85,C80/95,C90/105
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,out of stock,,,,,,,,,,,,,out of stock
 fck (MPa),Characteristic cylinder compressive strength,12Mpa,16Mpa,20Mpa,25Mpa,30Mpa,35Mpa,40Mpa,45Mpa,50Mpa,55Mpa,60Mpa,70Mpa,80Mpa,90Mpa
 "fck,cube (MPa)",Characteristic cube compressive strength,15,20,25,30,37,45,50,55,60,67,75,85,95,105
 fcm (MPa),Mean cylinder compressive strength,20,24,28,33,38,43,48,53,58,63,68,78,88,98
